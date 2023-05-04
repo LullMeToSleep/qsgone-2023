@@ -5,4 +5,4 @@ The folder labeled Final QSGone Data contains structured data in the form of TIF
 
 The folder labeled Notebooks contains colab notebook files used in the analysis of data for the manuscript. 
 
-The folder labeled Unused QSGone Data contains similarly  that did not make it into the final manuscript. 
+The folder labeled Unused QSGone Data contains similarly  that did not make it into the final manuscript, but is provided for the sake of data transparency. 
